@@ -1,0 +1,1 @@
+/Users/80263596/GitHub/StdSCO/stdscolibrary/build/intermediates/ndkBuild/release/obj/local/x86_64

@@ -1,0 +1,2 @@
+/Users/80263596/GitHub/StdSCO/stdscolibrary/src/main/jni/Android.mk
+/Users/80263596/GitHub/StdSCO/stdscolibrary/src/main/jni/Application.mk

@@ -1,0 +1,1 @@
+/Users/80263596/GitHub/StdSCO/stdscolibrary/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a

@@ -1,0 +1,3 @@
+[armeabi-v7a] Compile++ thumb: omesStdSco <= auth.cpp
+[armeabi-v7a] Compile++ thumb: omesStdSco <= Probe.cpp
+[armeabi-v7a] SharedLibrary  : libomesStdSco.so
